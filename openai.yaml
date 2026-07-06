@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Quote Tracker"
+  short_description: "Track X quote views for 24h/48h windows"
+  default_prompt: "Use $x-quote-tracker to track 24h and 48h quote views, likes, and Engage/View for this X post: <url>"
